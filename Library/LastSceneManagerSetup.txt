@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Chart and Graph/Themes/3d/Graph/Theme 2/preset 1.unity
+  isLoaded: 1
+  isActive: 1
